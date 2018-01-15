@@ -1,0 +1,4 @@
+callto    skype    "C:\Program Files (x86)\Skype\Phone\Skype.exe"
+callto    viber    "C:\Program Files (x86)\Viber\viber.exe"
+mailto    outlook  "C:\Program Files (x86)\outlook.exe"
+mailto    yahoo    "yahoo.some.call.exe"
